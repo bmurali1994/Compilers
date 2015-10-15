@@ -1,0 +1,18 @@
+
+global int y;
+global int z;
+
+
+int main()
+{
+	y=1;
+	y=y + 1;
+	y=z;
+	if(y<z)
+	{
+		print<<z;
+	}
+
+	
+return 0;
+}
